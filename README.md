@@ -1,4 +1,4 @@
-# Creating-Calendar
+# Calendar
 
 ## Prompt
 Write a program calendar.c that begins with an initialized variable for the month (an integer in the range 1…12) and the first day of the week in the month (an integer in the range 0…6 where 0 corresponds to Sunday, 1 to Monday, and so on); the program should print the appropriate calendar, as in the following examples.
