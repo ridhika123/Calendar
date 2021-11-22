@@ -1,5 +1,5 @@
 /***********************************************************************
- * Homework 1: Loopy Conditionals 
+Loopy Conditionals 
  ***********************************************************************/
 
 /* Procedure to print desired calendar month
