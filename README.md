@@ -25,3 +25,6 @@ Example 2:
       31 
 
       Month 3 (March) with the first day 5 (Friday).
+      
+## Response
+The program is [here](https://github.com/ridhika123/Creating-Calendar/blob/main/calendar.c).
