@@ -13,3 +13,15 @@ Example 1:
       28 29 30
 
       Month 11 (November) with the first day 1 (Monday).
+
+Example 2:
+
+      Su  M  T  W Th  F  S
+                      1  2 
+       3  4  5  6  7  8  9 
+      10 11 12 13 14 15 16 
+      17 18 19 20 21 22 23 
+      24 25 26 27 28 29 30 
+      31 
+
+      Month 3 (March) with the first day 5 (Friday).
